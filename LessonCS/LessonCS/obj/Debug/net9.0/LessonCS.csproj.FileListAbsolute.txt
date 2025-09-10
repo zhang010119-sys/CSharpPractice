@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\bin\Debug\net9.0\LessonCS.exe
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\bin\Debug\net9.0\LessonCS.deps.json
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\bin\Debug\net9.0\LessonCS.runtimeconfig.json
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\bin\Debug\net9.0\LessonCS.dll
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\bin\Debug\net9.0\LessonCS.pdb
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\LessonCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\LessonCS.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\LessonCS.AssemblyInfo.cs
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\LessonCS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\LessonCS.dll
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\refint\LessonCS.dll
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\LessonCS.pdb
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\LessonCS.genruntimeconfig.cache
+C:\Users\admin\Desktop\自己\C#练习\LessonCS\LessonCS\obj\Debug\net9.0\ref\LessonCS.dll
